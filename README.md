@@ -14,4 +14,3 @@ Responsive one-page portfolio made with HTML, CSS and JavaScript. The top naviga
 4. Under build and deployment, choose **Deploy from a branch**, select `main` and `/(root)`, then save.
 5. Open the URL shown in the Pages settings after deployment completes.
 
-The contact form opens the visitor's default email app; it does not send messages directly. Add GitHub/LinkedIn links and any specific project technologies only when ready and accurate.
